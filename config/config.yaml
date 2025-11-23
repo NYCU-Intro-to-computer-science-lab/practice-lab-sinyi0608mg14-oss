@@ -1,6 +1,6 @@
 app:
-  title: C++ Lab (Template Project)
-  description: 這是用來測試C++ Lab的模板專案
+  title: C++ Practice Lab
+  description: 請嘗試在網站上完成題目並繳交
 problems:
   p1:
     name: Calculator
