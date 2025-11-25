@@ -5,7 +5,7 @@ using namespace std;
 // TODO: 實作 calculate 函數
 // 參數: opcode (1-4), num1, num2
 // 回傳: 根據 opcode 計算的結果
-int calculate(int opcode, int num1, int num2) {
+int calculate(int opcode, int num1, int num2) {//C8
     // 在此實作你的程式碼
     return 0;
 }
